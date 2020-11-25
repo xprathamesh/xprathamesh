@@ -1,4 +1,4 @@
-# Hey there! 👋 <img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/giphy-culkin.gif" height="70px">
+# Hey there! <img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/giphy-culkin.gif" height="70px">
 
 <p align="justify"><img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/working-IT.gif" align="left" height="100"> My name is Prathamesh Pandit. I'm currently pursuing a Master's in Computer Science at NC State University. I worked as a Software Engineer Intern for Salesforce.com, inc. in Summer '20 where I was a part of their Customer Data Platform's Service Delivery team. My technical interests lie broadly in the areas of Software Engineering, Machine Learning and Deep Learning. Recently, I have been exploring Distributed Cloud Development and Infrastructure as well. I like solving challenging problems in software development and am interested in building highly scalable products.<br clear="left"/></p>
 
