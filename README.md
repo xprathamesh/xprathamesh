@@ -19,7 +19,7 @@
 
 ## Websites ✨
 - [LinkedIn](https://www.linkedin.com/in/prathameshpandit)
-- [Portfolio](xprathamesh.github.io)
+- [Portfolio](https://xprathamesh.github.io)
 
 ![](https://komarev.com/ghpvc/?username=xprathamesh&color=blue&style=flat-square)
 
