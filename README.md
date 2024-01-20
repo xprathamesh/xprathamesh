@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/giphy-culkin.gif" height="70px">
 
-<p align="justify"><img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/working-IT.gif" align="right" height="100"> My name is Prathamesh. I hold a Master's degree in Computer Science specializing in Data Science from NC State University. I work as a Software Engineer for Salesforce as part of their Customer Data Platform team. My technical interests lie broadly in the areas of Software Engineering (Back-end, Distributed and Scalable System development), Machine Learning and Deep Learning.<br clear="left"/></p>
+<p align="justify"> My name is Prathamesh. I hold a Master's degree in Computer Science specializing in Data Science from NC State University. I work as a Software Engineer for Salesforce as part of their Customer Data Platform team. My technical interests lie broadly in the areas of Software Engineering (Back-end, Distributed and Scalable System development), Machine Learning and Deep Learning.<br clear="left"/><img src="https://raw.githubusercontent.com/xprathamesh/xprathamesh/main/media/working-IT.gif" align="right" height="100" ></p>
 
 ## Technologies I've worked with ✨
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=blue)
