@@ -1,12 +1,9 @@
-# Hey there, I'm Prathamesh!
+# Hi, I'm Prathamesh 👋
 
-Back-end & Infrastructure Engineer at [@Salesforce](https://github.com/salesforce), building the systems behind [Data 360](https://www.salesforce.com/products/data/)(Formerly, Data Cloud).
+**Backend, platform & infrastructure engineer**
 
-## 🔭 What I'm building
+I am helping build [Code Extensions](https://developer.salesforce.com/docs/data/data-cloud-code-ext/guide/use-custom-code.html), which runs customers' own Spark and ML code inside [Salesforce Data 360](https://www.salesforce.com/products/data/). Previously, I did platform and infrastructure engineering for Data 360, and before that led major projects for enhancing its Metadata Graph.
 
-Currently working on building **[Code Extensions](https://developer.salesforce.com/docs/data/data-cloud-code-ext/guide/use-custom-code.html)** - a Salesforce Data Cloud feature that lets developers bring custom Spark and machine learning code directly into their data pipelines.
+🌐 [xprathamesh.github.io](https://xprathamesh.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/prathameshpandit)
 
-## Connect With Me ✨
-- [LinkedIn](https://www.linkedin.com/in/prathameshpandit)
-- [Portfolio](https://xprathamesh.github.io)
-- [Secondary Salesforce GitHub](https://github.com/ppandit-sfdc)
+<sub>Most of my work lives in private Salesforce repositories; open-source contributions are on [@ppandit-sfdc](https://github.com/ppandit-sfdc).</sub>
